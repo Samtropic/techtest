@@ -28,3 +28,17 @@ N'hésite pas à ajouter toute autre fonctionnalité que tu juges pertinente (te
 Le rendu devra être effectué sous forme de pull request sur ce repo.
 
 Bon courage !
+
+## Réalisations effectués
+
+Pour ce test technique j'ai implémenté, entre autres, quelques features additionnelles:
+
+- Routes CRUD
+- Documentation API
+- Système de pagination
+- Système de tri
+- Debounce pour call l'api
+- Validation formulaire
+- Formulaire réutilisable
+- Catch des principales erreurs
+- Quelques tests
