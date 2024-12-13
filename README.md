@@ -29,7 +29,7 @@ Le rendu devra être effectué sous forme de pull request sur ce repo.
 
 Bon courage !
 
-## Réalisations effectués
+## Réalisations effectuées
 
 Pour ce test technique j'ai implémenté, entre autres, quelques features additionnelles:
 
